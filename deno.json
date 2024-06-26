@@ -1,5 +1,8 @@
 {
   "name": "@mirql/love-sparkle",
-  "version": "0.6.1188",
-  "exports": "./mod.ts"
+  "version": "0.6.11881",
+  "exports": "./mod.ts",
+  "imports": {
+    "@deno/dnt": "jsr:@deno/dnt@^0.41.2"
+  }
 }
