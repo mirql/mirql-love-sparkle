@@ -1,0 +1,5 @@
+{
+  "name": "@mirql/love-sparkle",
+  "version": "0.6.1188",
+  "exports": "./mod.ts"
+}
